@@ -1,3 +1,5 @@
+*/ Autor:Elias Sousa
+
 
 package application;
 
@@ -18,7 +20,7 @@ public class Program {
 		sc.nextLine();
 		String nome =sc.nextLine();
 		
-		System.out.print("O cliente ir· fazer depÛsito inicial? s/n: ");
+		System.out.print("O cliente ir√° fazer dep√≥sito inicial? s/n: ");
 		char resposta=sc.next().charAt(0);
 		
 		if (resposta =='s') {
