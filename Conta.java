@@ -1,3 +1,5 @@
+*/ autor: Elias Sousa
+
 package entities;
 
 public class Conta {
